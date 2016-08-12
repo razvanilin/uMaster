@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/razvanilin/umaster-client/raw/master/client/app/images/logo-color.png" width="120"/>
+  <img src="https://github.com/razvanilin/uMaster/raw/master/logo-color.png" width="120"/>
 </p>
 # uMaster
 Central repository for the uMaster apps. It contains all the necessary documentation, guides and info.
